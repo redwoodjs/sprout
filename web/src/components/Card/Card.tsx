@@ -10,12 +10,12 @@ export enum CardVariant {
 }
 
 export interface CardProps {
-  label: string
+  label?: string
   link: string
-  title: string
-  media?: Record<string, string>
+  title?: string
+  media?: Record<string, string | number>
   description?: string
-  tags: Array<string & TagProps>
+  tags?: Array<TagProps>
 }
 
 interface ProxyProps extends CardProps, StandardProps, ExternalProps {
