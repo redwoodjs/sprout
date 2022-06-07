@@ -14383,9 +14383,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"i18n@npm:^0.14.1":
-  version: 0.14.2
-  resolution: "i18n@npm:0.14.2"
+"i18n@npm:0.15.0":
+  version: 0.15.0
+  resolution: "i18n@npm:0.15.0"
   dependencies:
     "@messageformat/core": ^3.0.0
     debug: ^4.3.3
@@ -14393,7 +14393,7 @@ __metadata:
     make-plural: ^7.0.0
     math-interval-parser: ^2.0.1
     mustache: ^4.2.0
-  checksum: fb3b3cf34dc3f8e979f8a809d8f16a48f432995ff63387ce62cb5bc2cf78fe25f0a3067dca5619fb4168d74572b80f3a20efef97b730e51b9dfacb1b4af84c76
+  checksum: 32401b150fdf19ae511b5d677aff7c3696f8f46eef7128b158ea2c2274dd8d53e1bdb1cd4345e74fee9430a2bdf775e9a16c5d49b72d1379c26c28bec6adcde9
   languageName: node
   linkType: hard
 
@@ -24929,7 +24929,7 @@ __metadata:
     clsx: ^1.1.1
     date-fns: ^2.28.0
     filestack-js: ^3.25.0
-    i18n: ^0.14.1
+    i18n: 0.15.0
     i18next: ^21.6.11
     i18next-browser-languagedetector: ^6.1.3
     plausible-tracker: ^0.3.5
