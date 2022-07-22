@@ -2732,13 +2732,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@headlessui/react@npm:^1.5.0":
-  version: 1.6.4
-  resolution: "@headlessui/react@npm:1.6.4"
+"@headlessui/react@npm:1.6.6":
+  version: 1.6.6
+  resolution: "@headlessui/react@npm:1.6.6"
   peerDependencies:
     react: ^16 || ^17 || ^18
     react-dom: ^16 || ^17 || ^18
-  checksum: 70b3d347dcb78b1588f4964ec7280c4172b0c0cacec5073fa3d6ede9dc7281cbb86e8e83bb59862c460fbd14f2e3c0a3993213d83a0be944d0bab42de97c096d
+  checksum: 6d005570bf52b516e0f0b813e43883708a8233d3eccfd1d003e4e665a772d109494808e52778b89e41334980f8d0036cfa97c291793c2d962631c27b23b4df67
   languageName: node
   linkType: hard
 
@@ -24911,7 +24911,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "web@workspace:web"
   dependencies:
-    "@headlessui/react": ^1.5.0
+    "@headlessui/react": 1.6.6
     "@heroicons/react": ^1.0.6
     "@redwoodjs/auth": ^1.5.1
     "@redwoodjs/forms": ^1.5.1
